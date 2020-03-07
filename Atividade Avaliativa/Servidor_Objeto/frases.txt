@@ -1,0 +1,3 @@
+Pessoa{nome=cliente 2, idade=2}
+Pessoa{nome=cliente 1, idade=1}
+Pessoa{nome=cliente 3, idade=2}
